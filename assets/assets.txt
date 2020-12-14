@@ -1,0 +1,5 @@
+font: https://fonts.google.com/
+logo-icon: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+semua foto billie eilish: ambil di aplikasi pinterest{https://www.pinterest.com}
+inspirasi website liat di aplikasi pinterest{https://www.pinterest.com}
+belajar mouse scrolling animition liat diyoutube{https://youtu.be/7zbACL872oM}
